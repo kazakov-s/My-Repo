@@ -7,3 +7,6 @@
 
 ТЕСТ-ПЛАНЫ
 Тест-план prezi-dent.ru: https://docs.google.com/document/d/1KmxsPRl1Jfy4ME3OpUKjaVvoL9zGoKnn/
+
+ВИДЕО МОЕЙ РАБОТЫ
+Тестирую массив в респонсе Json: https://www.youtube.com/watch?v=861Zp4CD8XQ
