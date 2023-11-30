@@ -7,9 +7,8 @@
 
 <h5>ТЕСТ-КЕЙСЫ</h5>
 
-<p>Аквариум: https://docs.google.com/spreadsheets/d/1RF5v93CnAybkg4v71phtkDv3ig6ydJA6/ <br>
-Сайт boxbattle.ru (авторизация): https://docs.google.com/spreadsheets/d/1qyj5HwzebVCepqeWl13vQ8pnVIZfg7I-/ <br>
-Приложение ЯндексюСамокат: https://docs.google.com/spreadsheets/d/1pG8ZlobzqsdwPa9_ydyGIpcDDaXt7Jb2/</p>
+<p>Приложение Яндекс.Самокат: https://docs.google.com/spreadsheets/d/1pG8ZlobzqsdwPa9_ydyGIpcDDaXt7Jb2/<br> 
+Сайт boxbattle.ru (авторизация): https://docs.google.com/spreadsheets/d/1qyj5HwzebVCepqeWl13vQ8pnVIZfg7I-/</p>
 
 <h5>ТЕСТ-ПЛАНЫ</h5>
 
