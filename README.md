@@ -19,5 +19,9 @@
 <p>Тестирую массив в респонсе Json: https://youtu.be/861Zp4CD8XQ <br>
 Заводим баг на YouTrack https://youtu.be/KE4y9RUnuWE <p>
 
+<h5>ИНТЕЛЛЕКТ КАРТЫ</h5>
+<p>Визуализация Требований Яндекс.Самокат [PDF]: https://drive.google.com/file/d/1yOmFs58TVl9_IfVkd9Rod68_-C-C_QaW/<br>
+Визуализация Требований Яндекс.Самокат [PNG]: https://drive.google.com/file/d/1zfdkNvmMzJF1GLBBq3Ha4u-KtGxKHqZx/</p>
+
 <h5>КОНТАКТЫ</h5>
 <p>Telegram: @kazakovs_qa<p>
