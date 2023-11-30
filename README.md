@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Sergey</a> 
+<h1 align="center">Всем привет, я <a href="#" target="_blank">Сергей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">SDET (AQA) from Russia 🇷🇺</h3>
+<h3 align="center">SDET (AQA) из России </h3>
 
 
 # My-Repo
