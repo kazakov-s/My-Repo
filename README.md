@@ -5,16 +5,16 @@
 
 # My-Repo
 
-ТЕСТ-КЕЙСЫ
+<h5>ТЕСТ-КЕЙСЫ</h5>
 
-Тестирую аквариум: https://docs.google.com/spreadsheets/d/1RF5v93CnAybkg4v71phtkDv3ig6ydJA6/ <br>
-Тест-кейсы формы авторизации сайта boxbattle.ru: https://docs.google.com/spreadsheets/d/1qyj5HwzebVCepqeWl13vQ8pnVIZfg7I-/
+<p>Тестирую аквариум: https://docs.google.com/spreadsheets/d/1RF5v93CnAybkg4v71phtkDv3ig6ydJA6/ <br>
+Тест-кейсы формы авторизации сайта boxbattle.ru: https://docs.google.com/spreadsheets/d/1qyj5HwzebVCepqeWl13vQ8pnVIZfg7I-/ </p>
 
-ТЕСТ-ПЛАНЫ
+<h5>ТЕСТ-ПЛАНЫ</h5>
 
-Тест-план prezi-dent.ru: https://docs.google.com/document/d/1KmxsPRl1Jfy4ME3OpUKjaVvoL9zGoKnn/
+<p>Тест-план prezi-dent.ru: https://docs.google.com/document/d/1KmxsPRl1Jfy4ME3OpUKjaVvoL9zGoKnn/ </p>
 
-ВИДЕО МОЕЙ РАБОТЫ
+<h5>ВИДЕО МОЕЙ РАБОТЫ</h5>
 
-Тестирую массив в респонсе Json: https://youtu.be/861Zp4CD8XQ
-Заводим баг на YouTrack https://youtu.be/KE4y9RUnuWE
+<p>Тестирую массив в респонсе Json: https://youtu.be/861Zp4CD8XQ <br>
+Заводим баг на YouTrack https://youtu.be/KE4y9RUnuWE </p>
