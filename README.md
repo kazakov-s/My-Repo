@@ -17,4 +17,7 @@
 <h5>ВИДЕО МОЕЙ РАБОТЫ</h5>
 
 <p>Тестирую массив в респонсе Json: https://youtu.be/861Zp4CD8XQ <br>
-Заводим баг на YouTrack https://youtu.be/KE4y9RUnuWE </p>
+Заводим баг на YouTrack https://youtu.be/KE4y9RUnuWE <p>
+
+<h5>КОНТАКТЫ</h5>
+<p>Telegram: @kazakovs_qa<p>
